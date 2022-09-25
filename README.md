@@ -6,6 +6,6 @@ The purpose of this analysis was to investigate a claim of academic dishonesty w
 ## Project Results
 While looking over the data and the reformatted data frames, I have come to a couple of conclusions,
 
-The first is that charter and district schools don't have many differences in performance, execpt for charter schools beating out district schools in math as seen below:
+* The first is that charter and district schools don't have many differences in performance, execpt for charter schools beating out district schools in math as seen below:
 
 ![school_type_summary](https://github.com/lrngdtascinc/PyCity_Schools/blob/0249598189ef532149271185407a06162933e39e/school_type_summary.png)
