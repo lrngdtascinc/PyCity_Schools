@@ -9,3 +9,7 @@ While looking over the data and the reformatted data frames, I have come to a co
 * The first is that charter and district schools don't have many differences in performance, execpt for charter schools beating out district schools in math as seen below:
 
 ![school_type_summary](https://github.com/lrngdtascinc/PyCity_Schools/blob/0249598189ef532149271185407a06162933e39e/school_type_summary.png)
+
+* Then if we start looking at the budget each school has available we can see huge differences. Charter schools seem to have a smaller budget compared to District schools, this can because of the amount of students in charter schools is significantly less than District schools. But if we look at the Budget Per Student, we see that Charter schools seem to spend less per student when compared to District schools:
+
+![per_school_summary]()
