@@ -12,4 +12,4 @@ While looking over the data and the reformatted data frames, I have come to a co
 
 * Then if we start looking at the budget each school has available we can see huge differences. Charter schools seem to have a smaller budget compared to District schools, this can because of the amount of students in charter schools is significantly less than District schools. But if we look at the Budget Per Student, we see that Charter schools seem to spend less per student when compared to District schools:
 
-![per_school_summary]()
+![per_school_summary](https://github.com/lrngdtascinc/PyCity_Schools/blob/472735e6d9e66b4c4441e8a2c0dc5cf5f2576913/per_school_sum.png)
